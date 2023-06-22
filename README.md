@@ -24,7 +24,3 @@ Note: For a complete understanding of the program's functionality, please refer 
 ## Contribute
 
 If you'd like to contribute to this project, please feel free to fork the repository, make your changes, and submit a pull request. We appreciate your help!
-
-## License
-
-This project is licensed under the terms of the MIT license. See the LICENSE file for details.
